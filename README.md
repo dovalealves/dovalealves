@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Do Vale Alves</h1>
 <h3 align="center">Physiotherapist turned Full Stack Developer and ready to crack some code!</h3>
+<p align "left"> <img src="banner.jpg" alt"profile image">
 
 - 👨‍💻 All of my projects are available at [https://github.com/dovalealves/projects](https://github.com/dovalealves/projects)
 
